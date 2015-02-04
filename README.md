@@ -4,7 +4,7 @@ A curated list of amazingly awesome awesomeness.
 Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
-- 	- [Andorid](#)
+- 	- Andorid
  		-[Android by JStumpp](https://github.com/JStumpp/awesome-android)
  		-[Android by snowdream](https://github.com/JStumpp/awesome-android)
  		-[Android UI](https://github.com/wasabeef/awesome-android-ui)
