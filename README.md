@@ -5,11 +5,11 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 
 - Programming Languages
 - 	- [Andorid](#)
-- 		-[Android by JStumpp](https://github.com/JStumpp/awesome-android)
-- 		-[Android by snowdream](https://github.com/JStumpp/awesome-android)
-- 		-[Android UI](https://github.com/wasabeef/awesome-android-ui)
-- 		-[Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
-- 		-[Andorid Security](https://github.com/ashishb/android-security-awesome)
+ 		-[Android by JStumpp](https://github.com/JStumpp/awesome-android)
+ 		-[Android by snowdream](https://github.com/JStumpp/awesome-android)
+ 		-[Android UI](https://github.com/wasabeef/awesome-android-ui)
+ 		-[Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
+ 		-[Andorid Security](https://github.com/ashishb/android-security-awesome)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
