@@ -4,12 +4,13 @@ A curated list of amazingly awesome awesomeness.
 Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
-- 	- Andorid
- 		-[Android by JStumpp](https://github.com/JStumpp/awesome-android)
- 		-[Android by snowdream](https://github.com/JStumpp/awesome-android)
- 		-[Android UI](https://github.com/wasabeef/awesome-android-ui)
- 		-[Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
- 		-[Andorid Security](https://github.com/ashishb/android-security-awesome)
+
+	- Android
+ 		- [Android by JStumpp](https://github.com/JStumpp/awesome-android)
+ 		- [Android by snowdream](https://github.com/JStumpp/awesome-android)
+ 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
+ 		- [Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
+ 		- [Andorid Security](https://github.com/ashishb/android-security-awesome)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
